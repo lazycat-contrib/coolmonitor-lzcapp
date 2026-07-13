@@ -8,8 +8,8 @@ application:
       backend: http://coolmonitor:3333/
 services:
   coolmonitor:
-    # upstream: docker.io/star7th/coolmonitor:latest
-    image: docker.1ms.run/star7th/coolmonitor:latest
+    # upstream: docker.io/star7th/coolmonitor:latest@sha256:ae4c7164c3f29d67ab673002cb2faaf2df3cd3f7f08480465bc811ee96413a07
+    image: registry.lazycat.cloud/czyt/star7th/coolmonitor:086981e09aafe3ec
     environment:
       - NODE_ENV=production
       - PORT=3333
