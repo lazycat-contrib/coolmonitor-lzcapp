@@ -1,0 +1,15 @@
+name: coolmonitor
+package: cloud.lazycat.app.coolmonitor
+version: 0.0.1
+min_os_version: 1.5.0
+description: "高颜值的监控工具"
+license: Apache-2.0
+homepage: https://github.com/star7th/coolmonitor
+author: star7th
+locales:
+  en:
+    name: "coolmonitor"
+    description: "A polished website, API, and HTTPS certificate monitoring tool"
+  zh:
+    name: "coolmonitor"
+    description: "高颜值的网站、接口与 HTTPS 证书监控工具"
