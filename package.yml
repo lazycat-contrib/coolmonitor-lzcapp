@@ -1,6 +1,6 @@
 name: coolmonitor
 package: cloud.lazycat.app.coolmonitor
-version: 0.1.4
+version: 0.1.5
 min_os_version: 1.5.0
 description: "高颜值的监控工具"
 license: Apache-2.0
